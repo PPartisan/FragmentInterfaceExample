@@ -1,9 +1,7 @@
 <resources>
-    <string name="app_name">My Application</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="app_name">FragmentInterfaceExample</string>
 
-<!-- TODO: Remove or change this placeholder text -->
+<!-- System Strings -->
     <string name="fragment_hint">Enter text to send to parent Activity</string>
     <string name="fragment_button_text">Send</string>
 </resources>
